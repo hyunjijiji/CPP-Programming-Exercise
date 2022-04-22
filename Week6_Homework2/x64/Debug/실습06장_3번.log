@@ -1,0 +1,7 @@
+﻿  실습06장_3번.cpp
+c:\users\administrator\desktop\실습\실습문제해답\실습06장_3번\hangman.h(34): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\실습\실습문제해답\실습06장_3번\hangman.h(44): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\administrator\desktop\실습\실습문제해답\실습06장_3번\hangman.h(42): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+  실습06장_3번.vcxproj -> C:\Users\Administrator\Desktop\실습\실습문제해답\x64\Debug\실습06장_3번.exe
+  실습06장_3번.vcxproj -> C:\Users\Administrator\Desktop\실습\실습문제해답\x64\Debug\실습06장_3번.pdb (Full PDB)
