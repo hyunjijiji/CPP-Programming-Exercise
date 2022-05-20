@@ -1,3 +1,0 @@
-﻿  MonsterWorldGame.cpp
-C:\Users\조현지\OneDrive\바탕 화면\게임으로배우는CPP_학습자용\소스및프로젝트\10장-다형성\10장-MonsterWorldV5\MonsterWorldGame.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  MonsterWorld5.vcxproj -> C:\Users\조현지\OneDrive\바탕 화면\Week10_Homework1\MonsterWorld5\x64\Debug\MonsterWorld5.exe
