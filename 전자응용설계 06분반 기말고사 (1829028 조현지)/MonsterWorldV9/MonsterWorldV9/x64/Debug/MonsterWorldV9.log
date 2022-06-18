@@ -1,0 +1,4 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\조현지\OneDrive\바탕 화면\게임으로배우는CPP_학습자용\소스및프로젝트\14장-표준템플릿라이브러리\14장-MonsterWorldV9\Monster.h(47,10): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조현지\OneDrive\바탕 화면\게임으로배우는CPP_학습자용\소스및프로젝트\14장-표준템플릿라이브러리\14장-MonsterWorldV9\MonsterWorldGame.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  MonsterWorldV9.vcxproj -> C:\Users\조현지\OneDrive\바탕 화면\나무발발이\MonsterWorldV9\x64\Debug\MonsterWorldV9.exe
